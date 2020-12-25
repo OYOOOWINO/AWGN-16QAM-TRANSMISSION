@@ -18,6 +18,8 @@ The outputed images are recieved after transmission. The label at the top Shows 
 #### Output Graph
 <img alt="BER vs Eb/No" align="left" height="180" src="image001.png"/>
 
+
+<br/>
 # Requirements
  
 * The code was writen using Matlab 2020Ra software

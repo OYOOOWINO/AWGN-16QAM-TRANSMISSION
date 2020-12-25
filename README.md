@@ -16,7 +16,7 @@ The outputed images are recieved after transmission. The label at the top Shows 
 <br/>
 
 #### Output Graph
-<img alt="BER vs Eb/No" align="right" height="180" src="image001.png"/>
+<img alt="BER vs Eb/No" align="left" height="180" src="image001.png"/>
 
 # Requirements
  

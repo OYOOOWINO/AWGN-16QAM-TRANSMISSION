@@ -10,14 +10,13 @@ The output is several windows of the image recieved and the output graph of the 
 
 #### Output Image 
 The outputed images are recieved after transmission. The label at the top Shows the value of Eb/No over which the image was transmmited. Below are sample outputs. 
-
 <img align="left" height="180" src="image005.png"/>
 <img align="center" height="180" src="image007.png"/>
 <img align="right" height="180" src="image009.png"/>
+<br/>
 
 #### Output Graph
-![BER vs Eb/No](/image001.png)
-
+<img alt="BER vs Eb/No" align="right" height="180" src="image001.png"/>
 
 # Requirements
  

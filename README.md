@@ -10,21 +10,18 @@ The output is several windows of the image recieved and the output graph of the 
 
 #### Output Image 
 The outputed images are recieved after transmission. The label at the top Shows the value of Eb/No over which the image was transmmited. Below are sample outputs. 
-<img align="left" height="180" src="image005.png"/>
-<img align="center" height="180" src="image007.png"/>
-<img align="right" height="180" src="image009.png"/>
+<img height="180" src="image005.png"/>
+<img  height="180" src="image007.png"/>
+
 <br/>
 
 #### Output Graph
 <img alt="BER vs Eb/No" align="left" height="180" src="image001.png"/>
 
+<h2>Requirements</h2>
+ The code was writen using Matlab 2020Ra software
 
-<br/>
-# Requirements
- 
-* The code was writen using Matlab 2020Ra software
-
-# Usage
+<h2>Usage</h2>
   To run the matlab file place the image "pappers.png" in the same directory as the matlab code and open the file in matlab.
 
   To understand the functionality, please read the comments in the code

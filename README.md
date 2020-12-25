@@ -9,17 +9,11 @@ The output is several windows of the image recieved and the output graph of the 
 ![Peppers.png](/image003.png)
 
 #### Output Image 
-The outputed images are recieved after transmission. The label at the top Shows the value of Eb/No over which the image was transmmited. 
+The outputed images are recieved after transmission. The label at the top Shows the value of Eb/No over which the image was transmmited. Below are sample outputs. 
 
 <img align="left" height="180" src="image005.png"/>
 <img align="center" height="180" src="image007.png"/>
 <img align="right" height="180" src="image009.png"/>
-<img align="left" height="180" src="image011.png"/>
-<img align="center" height="150" src="image013.png"/>
-<img align="right" height="150" src="image015.png"/>
-<img align="left" height="180" src="image017.png"/>
-<img align="center" height="150" src="image019.png"/>
-<img align="right" height="150" src="image021.png"/>
 
 #### Output Graph
 ![BER vs Eb/No](/image001.png)

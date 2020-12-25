@@ -10,13 +10,16 @@ The output is several windows of the image recieved and the output graph of the 
 
 #### Output Image 
 The outputed images are recieved after transmission. The label at the top Shows the value of Eb/No over which the image was transmmited. Below are sample outputs. 
-<img height="180" src="image005.png"/>
-<img  height="180" src="image007.png"/>
+
+
+![Peppers.png](/image005.png)
+![Peppers.png](/image007.png)
+![Peppers.png](/image009.png)
 
 <br/>
 
 #### Output Graph
-<img alt="BER vs Eb/No" align="left" height="180" src="image001.png"/>
+![Peppers.png](/image001.png)
 
 <h2>Requirements</h2>
  The code was writen using Matlab 2020Ra software
